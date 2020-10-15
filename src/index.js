@@ -1,5 +1,4 @@
-"use strict";
-Object.defineProperty(exports, "__esModule", { value: true });
+// import * as jkp from './function';
 const main = document.getElementById('main');
 main.style.width = '100%';
 main.style.height = '100%';
@@ -26,4 +25,4 @@ input.style.marginRight = 'auto';
 input.style.textAlign = 'center';
 container.appendChild(input);
 main.appendChild(container);
-//# sourceMappingURL=jankenpon.js.map
+//# sourceMappingURL=index.js.map

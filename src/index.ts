@@ -1,4 +1,4 @@
-import * as jkp from './function';
+// import * as jkp from './function';
 
 const main = document.getElementById('main');
 main.style.width = '100%';
